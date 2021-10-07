@@ -24,4 +24,4 @@ Analytical evaluations were carried out to arrive at the decision, using the fol
 1. Segmentaion of current store by k-means
 2. Predicting new store segment(cluster)
 3. Using Time Series Analysis to forecast sales.
-  
+  # Predictive-Analytics-for-Business-Udacity-Nanodegree
